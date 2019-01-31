@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BarChartStyle">
+        <attr name="bar_color" format="integer" />
+        <attr name="bar_unit" format="string" />
+        <attr name="bar_title" format="string" />
+        <attr name="bar_icon" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="LineChartStyle">
+        <attr name="line_color" format="integer" />
+        <attr name="line_unit" format="string" />
+        <attr name="line_title" format="string" />
+        <attr name="line_icon" format="reference" />
+    </declare-styleable>
+</resources>

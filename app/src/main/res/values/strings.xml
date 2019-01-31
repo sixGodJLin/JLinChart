@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JLinChart</string>
+    <string name="bar_chart">bar chart</string>
+    <string name="line_chart">line_chart</string>
+</resources>
